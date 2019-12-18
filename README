@@ -1,0 +1,39 @@
+INTRODUCTION AUX R ET MÉTHODES STATISTIQUES EN BIOLOGIE
+POUR: Licence Professionnel:
+Biochimie, biologie moléculaire et cellulaire pour le diagnostic in vitro et les biothérapies (LPRO2019)
+à l'Université Claude Bernard Lyon 1, novembre 2019
+
+(c) Julie Teresa Shapiro, Jean-Philippe Rasigade
+Université Claude Bernard Lyon 1
+CIRI Inserm U1111
+
+##################################################################
+Accompanying software code and data.
+
+## System requirements:
+
+R v3.6.0
+R packages:
+    qcc
+
+Code was tested under Windows 10 environment.
+
+Typical install time: 1 minute for package installation.
+
+## Instructions and file contents:
+
+There is an instructor (Prof) and student version of script1 and script2.
+Instructor versions include code / solutions while student versions allow 
+participants to write the necessary code themselves.
+
+Required csv files are included with code.
+Csv files except for d1.csv and d2.csv are adapted from R's "iris" and "Puromycin" data sets.
+d1.csv and d2.csv are based on simulated normal and skewed data created in R.
+
+
+An example test is included in the Word document "IntroStatBio_Evaluation_Final."
+The script "script_examen" contains the code and solutions to the exam questions.
+
+All comments within the scripts are in French.
+
+
